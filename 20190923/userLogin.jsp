@@ -9,8 +9,8 @@
     <h1 id="aList">3주차</h1>
     <ul>
    <li><a href="http://203.237.142.245/~s20141506/week03/userLogin.jsp">userLogin.jsp</a></li><br>
-      <li><img src="../20190923/userLogin1.PNG"alt="화면"/></li>
-      <li><img src="../20190923/userLogin2.PNG"alt="화면"/></li>
+      <li><img src="../20190923/userLogin1_1.PNG"alt="화면"/></li>
+      <li><img src="../20190923/userLogin1_2.PNG"alt="화면"/></li>
     </ul>
     <hr/>
   </body>
